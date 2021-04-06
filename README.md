@@ -1,3 +1,3 @@
 # Session_Git
-# Salut tout le monde, il froid aujourd'hui !
+# Salut tout le monde, il fait beau aujourd'hui !
 # à midi, c'est steak frites
